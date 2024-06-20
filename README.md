@@ -1,2 +1,2 @@
-# jssitetemp
- js site templete
+# JSSiteTemplate
+Site template for JS Projects
